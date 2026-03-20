@@ -55,7 +55,7 @@ CODE_ORGANIZATION: code-sena
 ## 🚀 Proyectos destacados
 
 🔹 **EcoRuteando**
-Sistema para gestión de experiencias educativas
+Sistema para gestión de rutas ecologicas
 
 🔹 **Hotel Resort Web**
 Sistema de reservas con interfaz moderna
