@@ -1,10 +1,4 @@
-<!--
-CONFIG
-FULL_NAME: Tu nombre completo real
-GITHUB_USER: Tu usuario de GitHub
-EMAIL: Tu correo
-CODE_ORGANIZATION: code-sena
--->
+
 <!--
 CONFIG
 FULL_NAME:Emily Sharith Amezquita Saavedra 
@@ -13,7 +7,7 @@ EMAIL:sharithamezquita81gmail.com
 CODE_ORGANIZATION: code-sena
 -->
 
-<h1 align="center">🚀 Sharith</h1>
+<h1 align="center">🚀 Emily Sharith Amezquita Saavedra </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharithsaavedra1&label=Visitas&style=flat-square&color=blue" alt="views"/>
