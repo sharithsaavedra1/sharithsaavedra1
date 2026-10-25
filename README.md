@@ -58,10 +58,13 @@
   <h2>📊 🌌 Estadísticas de GitHub</h2>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sharithsaavedra1&show_icons=true&theme=radical&hide_border=true&bg_color=1d1f21&title_color=ff69b4&icon_color=ffb6c1&text_color=ffd1dc&include_all_commits=true" alt="GitHub Stats" />
+    <!-- Tarjeta de estadísticas principal corregida -->
+    <img src="https://github-readme-stats.vercel.app/api?username=sharithsaavedra1&show_icons=true&theme=radical&hide_border=true&bg_color=1d1f21&title_color=ff69b4&icon_color=ffb6c1&text_color=ffd1dc" alt="GitHub Stats" />
     <br><br>
+    <!-- Tarjeta de racha -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharithsaavedra1&theme=radical&hide_border=true&background=1d1f21&ring=ff69b4&fire=ff69b4&currStreakNum=ffd1dc" alt="GitHub Streak" />
     <br><br>
+    <!-- Tarjeta de lenguajes más usados -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharithsaavedra1&layout=compact&theme=radical&hide_border=true&bg_color=1d1f21&title_color=ff69b4&text_color=ffd1dc" alt="Top Languages" />
   </p>
 
@@ -82,6 +85,7 @@
   
   <br>
 
-  <!-- GIF del monito programador centrado al final -->
-  <img src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif" width="250px" alt="Developer Monkey GIF"/>
+  <!-- GIF del monito programador con enlace directo optimizado -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20With%20Wry%20Smile.png" width="0px" style="display:none;"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB1djZ3NGMzaHBkbmxjc21rdWhwdmRlb3kzdTNkMmZqNjR2ejR4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pPKOYQpTO8AAAAAd/giphy.gif" width="220px" alt="Developer Monkey GIF"/>
 </div>
