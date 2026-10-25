@@ -1,6 +1,6 @@
 <div align="center">
   <!-- GIF principal de Hello Kitty -->
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="320px" alt="Hello Kitty GIF"/>
+  <img src="https://media1.tenor.com/m/Eedpa0Lj7FIAAAAC/hello.gif" width="320px" alt="Hello Kitty GIF"/>
   
   <h1> 🎀 ¡Hola, soy Emily Sharith! 🎀 </h1>
   <p><em>✨ Apasionada por el desarrollo de software, creando soluciones con un toque de dulzura y tecnología ✨</em></p>
