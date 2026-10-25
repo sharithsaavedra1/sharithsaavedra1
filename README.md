@@ -66,4 +66,4 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB1djZ3NGMzaHBkbmxjc21rdWhwdmRlb3kzdTNkMmZqNjR2ejR4ayZlcD12MV9pbnRlcm5hbF_gif_by_id&ct=g/giphy.gif" width="200px" alt="Sanrio GIF"/>
   <p>⭐ <strong>¡Gracias por visitar mi perfil! Vuelve pronto</strong> ⭐</p>
 </div>
- <img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-731.gif"/>
+ <img src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif"/>
