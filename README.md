@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner / GIF principal de bienvenida -->
-  <img src="[https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="300px" alt="Hello Kitty GIF](https://tenor.com/es/view/hello-gif-1290115727669587026)"/>
+  <!-- GIF principal de Hello Kitty -->
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="320px" alt="Hello Kitty GIF"/>
   
   <h1> 🎀 ¡Hola, soy Emily Sharith! 🎀 </h1>
   <p><em>✨ Apasionada por el desarrollo de software, creando soluciones con un toque de dulzura y tecnología ✨</em></p>
@@ -37,7 +37,6 @@
 
 | Proyecto | Descripción |
 | :--- | :--- |
-| **🔹 EcoRuteando** | Sistema inteligente para la gestión y optimización de rutas ecológicas. |
 | **🔹 Hotel Resort Web** | Sistema de reservas completo con una interfaz moderna y atractiva. |
 | **🔹 Experiencias Significativas** | Plataforma educativa desarrollada para la Secretaría de Educación. |
 
@@ -56,7 +55,6 @@
 ## 🌐 💌 Conecta conmigo
 
 <div align="center">
-  <!-- Puedes agregar aquí tus enlaces a LinkedIn, GitHub o redes -->
   <a href="https://github.com/sharithsaavedra1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
