@@ -58,8 +58,10 @@
   <h2>📊 🌌 Estadísticas de GitHub</h2>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sharithsaavedra1&show_icons=true&theme=radical&hide_border=true&bg_color=1d1f21&title_color=ff69b4&icon_color=ffb6c1&text_color=ffd1dc" alt="GitHub Stats" />
-    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=sharithsaavedra1&show_icons=true&theme=radical&hide_border=true&bg_color=1d1f21&title_color=ff69b4&icon_color=ffb6c1&text_color=ffd1dc&include_all_commits=true" alt="GitHub Stats" />
+    <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharithsaavedra1&theme=radical&hide_border=true&background=1d1f21&ring=ff69b4&fire=ff69b4&currStreakNum=ffd1dc" alt="GitHub Streak" />
+    <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharithsaavedra1&layout=compact&theme=radical&hide_border=true&bg_color=1d1f21&title_color=ff69b4&text_color=ffd1dc" alt="Top Languages" />
   </p>
 
@@ -80,5 +82,6 @@
   
   <br>
 
+  <!-- GIF del monito programador centrado al final -->
   <img src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif" width="250px" alt="Developer Monkey GIF"/>
 </div>
