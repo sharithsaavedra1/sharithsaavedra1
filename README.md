@@ -1,79 +1,70 @@
+<div align="center">
+  <!-- Banner / GIF principal de bienvenida -->
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="300px" alt="Hello Kitty GIF"/>
+  
+  <h1> 🎀 ¡Hola, soy Emily Sharith! 🎀 </h1>
+  <p><em>✨ Apasionada por el desarrollo de software, creando soluciones con un toque de dulzura y tecnología ✨</em></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Status-Activa%20y%20Aprendiendo-ff69b4?style=for-the-badge&logo=reactivex&logoColor=white" />
+    <img src="https://img.shields.io/badge/Estilo-Coquette%20%2F%20Sanrio-ffb6c1?style=for-the-badge&logo=hello-kitty&logoColor=white" />
+  </p>
+</div>
 
-<!--
-CONFIG
-FULL_NAME:Emily Sharith Amezquita Saavedra 
-GITHUB_USER: sharithsaavedra1
-EMAIL:sharithamezquita81gmail.com
-CODE_ORGANIZATION: code-sena
--->
+<br>
 
-<h1 align="center">🚀 Emily Sharith Amezquita Saavedra </h1>
+## 🧠 🌸 Sobre mí
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharithsaavedra1&label=Visitas&style=flat-square&color=blue" alt="views"/>
-  <img src="https://img.shields.io/github/followers/sharithsaavedra1?style=social" alt="followers"/>
-</p>
+- 💻 **¿Qué hago?** Enfocada en desarrollo web y sistemas, transformando ideas en código limpio y funcional. 
+- 📚 **¿Qué estoy aprendiendo?** Actualmente profundizando en **Java**, **JavaScript**, bases de datos, **HTML** y **CSS**.
+- ⚡ **Mi meta:** Crear soluciones tecnológicas reales que marquen la diferencia, ¡siempre con mucha dedicación y creatividad!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Desarrollador+en+formación;Amante+del+código;Creador+de+proyectos+web;Siempre+aprendiendo+nuevas+tecnologías">
-</p>
+<br>
 
----
+## 🛠️ 🎀 Tecnologías y Herramientas
 
-## 🧠 Sobre mí
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bases%20de%20Datos-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
-💻 Apasionado por el desarrollo de software
-🚀 Enfocado en desarrollo web y sistemas
-📚 Aprendiendo Java, JavaScript y bases de datos,html y css
-⚡ Me gusta crear soluciones reales con tecnología
+<br>
 
----
+## 🚀 🍓 Proyectos Destacados
 
-## 🛠️ Tecnologías
+| Proyecto | Descripción |
+| :--- | :--- |
+| **🔹 EcoRuteando** | Sistema inteligente para la gestión y optimización de rutas ecológicas. |
+| **🔹 Hotel Resort Web** | Sistema de reservas completo con una interfaz moderna y atractiva. |
+| **🔹 Experiencias Significativas** | Plataforma educativa desarrollada para la Secretaría de Educación. |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,mysql,vscode,git,github" />
-</p>
+<br>
 
----
+## 📊 💖 Estadísticas de GitHub
 
-## 📊 Estadísticas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharithsaavedra1&show_icons=true&theme=radical&hide_border=true&bg_color=1d1f21&title_color=ff69b4&icon_color=ffb6c1&text_color=ffd1dc" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharithsaavedra1&layout=compact&theme=radical&hide_border=true&bg_color=1d1f21&title_color=ff69b4&text_color=ffd1dc" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharithsaavedra1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharithsaavedra1&theme=tokyonight" />
-</p>
+<br>
 
----
+## 🌐 💌 Conecta conmigo
 
-## 🚀 Proyectos destacados
-
-🔹 **EcoRuteando**
-Sistema para gestión de rutas ecologicas
-
-🔹 **Hotel Resort Web**
-Sistema de reservas con interfaz moderna
-
-🔹 **Experiencias significativas**
-sistema para secretaria de educacion 
-
----
-
-## 🌐 Conecta conmigo
-
-<p align="center">
-  <a href="mailto:sharithamezquita81gmail.comI">
-    <img src="https://img.shields.io/badge/Email-contacto-red?style=for-the-badge&logo=gmail">
+<div align="center">
+  <!-- Puedes agregar aquí tus enlaces a LinkedIn, GitHub o redes -->
+  <a href="https://github.com/sharithsaavedra1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/sharithsaavedra1">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github">
-  </a>
-</p>
+</div>
 
----
+<br>
 
-
-
-<p align="center">
-  ⭐ <b>Gracias por visitar mi perfil</b> ⭐  
-</p>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB1djZ3NGMzaHBkbmxjc21rdWhwdmRlb3kzdTNkMmZqNjR2ejR4ayZlcD12MV9pbnRlcm5hbF_gif_by_id&ct=g/giphy.gif" width="200px" alt="Sanrio GIF"/>
+  <p>⭐ <strong>¡Gracias por visitar mi perfil! Vuelve pronto</strong> ⭐</p>
+</div>
