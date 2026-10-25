@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner / GIF principal de bienvenida -->
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="300px" alt="Hello Kitty GIF"/>
+  <img src="[https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="300px" alt="Hello Kitty GIF](https://tenor.com/es/view/hello-gif-1290115727669587026)"/>
   
   <h1> 🎀 ¡Hola, soy Emily Sharith! 🎀 </h1>
   <p><em>✨ Apasionada por el desarrollo de software, creando soluciones con un toque de dulzura y tecnología ✨</em></p>
